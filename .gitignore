@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+data/chroma/
+*.pyc
+*.log
+.pytest_cache/
+_to_delete/
+.claude/settings.local.json
+diagnostico.txt
